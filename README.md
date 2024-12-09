@@ -131,26 +131,13 @@
 
 <div align="center">
 
-  <a href="https://github.com/TheHellSide/">
-     <img src="https://github-readme-stats.vercel.app/api?username=TheHellSide&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FE5F60&icon_color=357291&text_color=EBF4F8&bg_color=142A37" width="450" alt="TheHellSide"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&show_icons=true&locale=en&layout=compact&line_height=20&title_color=FE5F60&icon_color=357291&text_color=EBF4F8&bg_color=142A37" width="375" alt="TheHellSide"/>
-  </a>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=TheHellSide%20&theme=blood-dark&card_width=475&card_height=200" alt="GitHub Streak" />
-  </a>
-<br>
-</div>
-
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
 
 <br><br><br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 
 <div align="center">
-   <p align="center">There is no rest for me in this world.
-   Perhaps in the next...
-   </p>
-   <p align="center">Vi Veri Veniversum Vivus Vici... 
-   </p>
    <p align="center">Veni, Vidi, Vici... 
    </p>
 </div>
