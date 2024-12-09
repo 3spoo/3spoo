@@ -145,6 +145,10 @@
 <br><br>
 
 <div align="center">
+   <p align="center">Errare umanum est perseverare autem diabolicum...
+   </p>
+   <p align="center">Vi Veri Veniversum Vivus Vici...
+   </p>
    <p align="center">Veni, Vidi, Vici... 
    </p>
 </div>
