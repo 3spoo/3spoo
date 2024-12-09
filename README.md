@@ -137,7 +137,7 @@
 </a>
 <br><br>
 <a href="https://github.com/anuraghazra/convoychat">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&bg_color=30,0008145f,00000000&text_bold=true&text_color=DCDCDC&border_color=000814&title_color=468faf" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&bg_color=30,0008145f,00000000&text_bold=true&text_color=DCDCDC&border_color=000814&title_color=468faf" />
 </a>
 
 <br><br>
