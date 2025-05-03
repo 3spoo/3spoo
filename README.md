@@ -127,21 +127,26 @@
 ## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
 <br>
 
+## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
+<br>
 
-<div align="center">
-
+<div align="center" style="width: 100%;">
   <a href="https://github.com/TheHellSide">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=808080&text_color=aaaaaa&title_color=999999" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=808080&text_color=aaaaaa&title_color=999999" 
+      style="width: 80%; max-width: 800px;"
+    />
   </a>
-  <!--
+<!--
   <br><br>
   <a href="https://github.com/TheHellSide">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=aaaaaa&title_color=999999&cache_bust=2" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=aaaaaa&title_color=999999&cache_bust=2" 
+      style="width: 80%; max-width: 800px;"
+    />
   </a>
 -->
 </div>
-
-
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
