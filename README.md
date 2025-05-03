@@ -132,11 +132,11 @@
 <div align="center">
 <br>
  
-<a href="https://github.com/TheHellSide/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&icons=true&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
 </a>
 <br><br>
-<a href="https://github.com/TheHellSide/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&cache_seconds=30&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
 </a>
 
