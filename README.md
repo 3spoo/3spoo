@@ -134,12 +134,13 @@
  
 <div align="center">
   <a href="https://github.com/TheHellSide">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117,0d1117,0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" />
-  </a>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=F8F8F2&title_color=FF79C6" />
+</a>
   <br><br>
   <a href="https://github.com/TheHellSide">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117,0d1117,0d1117&text_color=c9d1d9&title_color=58a6ff" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=F8F8F2&title_color=FF79C6&cache_bust=1" />
+</a>
+
 </div>
 
 <br><br>
