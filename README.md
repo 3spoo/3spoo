@@ -129,15 +129,15 @@
 
 
 <div align="center">
-
-  <a href="https://github.com/TheHellSide">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=808080&text_color=aaaaaa&title_color=999999" />
-  </a>
+   <a href="https://github.com/TheHellSide">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=aaaaaa&title_color=999999" />
+   </a>
+<!--
   <br><br>
   <a href="https://github.com/TheHellSide">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=aaaaaa&title_color=999999&cache_bust=2" />
   </a>
-
+-->
 </div>
 
 
