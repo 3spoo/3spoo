@@ -133,15 +133,15 @@
 <br>
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&icons=true&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
 </a>
 <br><br>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- Verifica il nome corretto della tua repository prima di aggiornare questo link -->
+<a href="https://github.com/TheHellSide/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&cache_seconds=30&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
 </a>
-
 <br><br>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
 
 <div align="center">
