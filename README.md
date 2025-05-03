@@ -127,9 +127,6 @@
 ## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
 <br>
 
-## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center" style="width: 100%;">
   <a href="https://github.com/TheHellSide">
     <img 
