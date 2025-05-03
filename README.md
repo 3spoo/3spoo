@@ -132,14 +132,16 @@
 <div align="center">
 <br>
  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
+<a href="https://github.com/TheHellSide">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117,0d1117,0d1117&icon_color=58a6ff&text_color=c9d1d9&title_color=58a6ff" />
 </a>
+
 <br><br>
 <!-- Verifica il nome corretto della tua repository prima di aggiornare questo link -->
-<a href="https://github.com/TheHellSide/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&cache_seconds=30&bg_color=30,0008145f,00000000&text_color=DCDCDC&border_color=000814&title_color=468faf" />
+<a href="https://github.com/TheHellSide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117,0d1117,0d1117&text_color=c9d1d9&title_color=58a6ff" />
 </a>
+
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br><br>
