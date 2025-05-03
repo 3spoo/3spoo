@@ -117,7 +117,6 @@
   <br>
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-    ![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 </p>
 
 <br><br>
@@ -130,18 +129,17 @@
 
 
 <div align="center">
-<br>
- 
-<div align="center">
+
   <a href="https://github.com/TheHellSide">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=00FFFF&text_color=F8F8F2&title_color=FF79C6" />
-</a>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=TheHellSide&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&icon_color=808080&text_color=aaaaaa&title_color=999999" />
+  </a>
   <br><br>
   <a href="https://github.com/TheHellSide">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=F8F8F2&title_color=FF79C6&cache_bust=1" />
-</a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=aaaaaa&title_color=999999&cache_bust=2" />
+  </a>
 
 </div>
+
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
