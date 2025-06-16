@@ -8,10 +8,18 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width ="35"><b> About Me</b>
 <br>
 
-- Ethical Hacking and Cyber Security
-- Currently learning Coding and Web Developing
-- Playing Machines on Hack The Box and TryHackMe
-- Currently learning Cyber Security
+'''java
+Object me = {
+     String pronouns[] = {"he", "him"},
+     String focus[][] = {
+          {"Java", "C/C++", "Python"},
+	  {"Bash", "OffSec"}
+     },
+     String funFact = "Still learning..."
+     int publicRepos = 0,
+     String funfact = ""
+}
+'''
 
 
 <br>
