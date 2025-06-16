@@ -9,7 +9,7 @@
 <br>
 
 ```java
-Object me = {
+Object hellSide = {
      String pronouns[] = {"he", "him"},
      String focus[][] = {
           {"Java", "C/C++", "Python"},
