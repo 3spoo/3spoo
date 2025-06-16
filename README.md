@@ -15,11 +15,12 @@ public class HellSide {
     // Areas of interest
     String[][] focus = {
         { "Java", "C/C++", "Python", "Web"}, // Back-end 
-        { "Bash", "OffSec", "AI"}
+        { "Bash", "Linux", "OffSec"}
+        //TODO
     };
 
     String funFact = "Still learning... and breaking things.";
-    int publicRepos = 0; // ...for now ;)
+    private int publicRepos = 0; // ...for now ;)
 
     // Self-description
     void whoAmI() {
