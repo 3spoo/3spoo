@@ -9,15 +9,22 @@
 <br>
 
 ```java
-Object hellSide = {
-     String pronouns[] = {"he", "him"},
-     String focus[][] = {
-          {"Java", "C/C++", "Python"},
-	  {"Bash", "OffSec"}
-     },
-     String funFact = "Still learning..."
-     int publicRepos = 0,
-     String funfact = ""
+public class HellSide {
+    String[] pronouns = { "he", "him" };
+
+    // Areas of interest
+    String[][] focus = {
+        { "Java", "C/C++", "Python", "Web"}, // Back-end 
+        { "Bash", "OffSec", "AI"}
+    };
+
+    String funFact = "Still learning... and breaking things.";
+    int publicRepos = 0; // ...for now ;)
+
+    // Self-description
+    void whoAmI() {
+        System.out.println("Just a .dev...");
+    }
 }
 ```
 
