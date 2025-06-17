@@ -15,6 +15,7 @@
 ```java 
 public class HellSide implements Developer {
      String[] pronouns = { "he", "him" };
+     CoffeeLevel dailyCaffeineLevel = CoffeeLevel.HIGH;
 
      // Areas of interest
      String[][] focus = {
@@ -24,13 +25,17 @@ public class HellSide implements Developer {
      };
 
      String funFact = "Still learning... and breaking things.";
-     private String quote = "*Errare umanum est perseverare autem diabolicum...*";
+     private String quote = "*Errare humanum est, perseverare autem diabolicum...*";
      private int publicRepos = 0; // ...for now ;)
 
      @Override
      public void whoAmI() {
           System.out.println("Just a .dev...");
      }
+}
+
+enum CoffeeLevel {
+    LOW, MEDIUM, HIGH
 }
 
 interface Developer {
