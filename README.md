@@ -28,6 +28,7 @@ public class HellSide implements Developer {
      };
 
      String funFact = "Still learning... and breaking things.";
+     private String quote = "*Errare umanum est perseverare autem diabolicum...*";
      private int publicRepos = 0; // ...for now ;)
 
      @Override
@@ -64,7 +65,7 @@ public class HellSide implements Developer {
 <div>
 <p align="center">
 
-### <b>Languages</b>
+##### <b>Languages</b>
 ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -74,7 +75,7 @@ public class HellSide implements Developer {
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-### <b>Web</b>
+##### <b>Web</b>
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -82,7 +83,7 @@ public class HellSide implements Developer {
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### <b>Software and Tools</b>
+##### <b>Software and Tools</b>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -96,7 +97,7 @@ public class HellSide implements Developer {
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### <b>Operative Systems</b>
+##### <b>Operative Systems</b>
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
@@ -104,7 +105,7 @@ public class HellSide implements Developer {
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### <b>Something else...</b>
+##### <b>Something else...</b>
 ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 </div>
@@ -126,7 +127,7 @@ public class HellSide implements Developer {
 </div>
 <br>
 <!--STATS-->
-
+<!--THE END-->
 
 
 <!--SEPARATOR
@@ -135,9 +136,9 @@ public class HellSide implements Developer {
 -->
 
 
-<!--FOOTER-->
+<!--FOOTER
 <div align="center">
    <em align="center">Errare umanum est perseverare autem diabolicum...
    </em>
 </div>
-<!--FOOTER-->
+-->
