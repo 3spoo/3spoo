@@ -21,7 +21,7 @@ public class HellSide implements Developer {
      String[][] focus = {
           { "Java", "C/C++", "Python", "Web" }, // Back-end
           { "Bash", "Linux", "OffSec" }
-          // TODO
+          // TODO: Work in progress...
      };
 
      String funFact = "Still learning... and breaking things.";
