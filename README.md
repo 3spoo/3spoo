@@ -8,31 +8,32 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width ="35"><b> About Me</b>
 <br>
 
-```java
-public class HellSide {
-    String[] pronouns = { "he", "him" };
+```java 
+interface Developer {
+     void whoAmI();
+}
 
-    // Areas of interest
-    String[][] focus = {
-        { "Java", "C/C++", "Python", "Web"}, // Back-end 
-        { "Bash", "Linux", "OffSec"}
-        //TODO
-    };
+public class HellSide implements Developer {
+     String[] pronouns = { "he", "him" };
 
-    String funFact = "Still learning... and breaking things.";
-    private int publicRepos = 0; // ...for now ;)
+     // Areas of interest
+     String[][] focus = {
+          { "Java", "C/C++", "Python", "Web" }, // Back-end
+          { "Bash", "Linux", "OffSec" }
+          // TODO
+     };
 
-    // Self-description
-    void whoAmI() {
-        System.out.println("Just a .dev...");
-    }
+     String funFact = "Still learning... and breaking things.";
+     private int publicRepos = 0; // ...for now ;)
+
+     @Override
+     public void whoAmI() {
+          System.out.println("Just a .dev...");
+     }
 }
 ```
 
-
 <br>
-<br>
-
 
 ## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="35"><b> Socials</b>
 <br>
@@ -47,33 +48,6 @@ public class HellSide {
       </a>
    <br>
 </div>
-<!--
-<div>
-      <a href="https://404">
-	   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      </a>
-   <br>
-       <a href="https://404">
-	   <img alt="Snapchat" src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white"/>
-      </a>
-   <br>
-      <a href="https://404">
-	   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-      </a>
-   <br>
-      <a href="https://404">
-	   <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-      </a>
-   <br>
-      <a href="https://404">
-	   <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
-      </a>
-</div>
--->
-<br><br>
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b> Skills</b>
 <br>
