@@ -1,9 +1,9 @@
 <img alt="TheHellSide" src="Header.png" max-width=100%>
 
 
-<br><br>
+<br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
  
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width ="35"><b> About Me</b>
 <br>
@@ -32,7 +32,6 @@ public class HellSide implements Developer {
      }
 }
 ```
-
 <br>
 
 ## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="35"><b> Socials</b>
@@ -109,9 +108,9 @@ public class HellSide implements Developer {
     ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 </p>
 
-<br><br>
+<br>
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 
 ## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
@@ -124,26 +123,13 @@ public class HellSide implements Developer {
       style="width: 80%; max-width: 800px;"
     />
   </a>
-<!--
-  <br><br>
-  <a href="https://github.com/TheHellSide">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHellSide&layout=compact&hide_border=true&bg_color=0d1117&text_color=aaaaaa&title_color=999999&cache_bust=2" 
-      style="width: 80%; max-width: 800px;"
-    />
-  </a>
--->
 </div>
 
-<br><br>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br><br>
+<br>
 
 <div align="center">
    <p align="center">Errare umanum est perseverare autem diabolicum...
-   </p>
-   <p align="center">Vi Veri Veniversum Vivus Vici...
-   </p>
-   <p align="center">Veni, Vidi, Vici... 
    </p>
 </div>
