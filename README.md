@@ -13,10 +13,6 @@
 <br>
 
 ```java 
-interface Developer {
-     void whoAmI();
-}
-
 public class HellSide implements Developer {
      String[] pronouns = { "he", "him" };
 
@@ -35,6 +31,10 @@ public class HellSide implements Developer {
      public void whoAmI() {
           System.out.println("Just a .dev...");
      }
+}
+
+interface Developer {
+     void whoAmI();
 }
 ```
 <br>
