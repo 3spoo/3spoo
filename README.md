@@ -50,14 +50,13 @@ interface Developer {
 ## <img src="https://cliply.co/wp-content/uploads/2019/12/371903520_SOCIAL_ICONS_TRANSPARENT_400px.gif" width ="35"><b> Socials</b>
 <br>
 
-<div>
-      <a href="https://discord.com/invite/mNAhNX7Z">
-   	   <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-      </a>
-      <a href="https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==">
-	   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-      </a>
-</div>
+<a href="https://discord.com/invite/mNAhNX7Z">
+   <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/fabio.unknown?igsh=MXdiMHV3MGJud2VwMQ==">
+   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</a>
+
 <br>
 <!--SOCIAL-->
 
