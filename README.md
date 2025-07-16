@@ -25,7 +25,6 @@ public class HellSide implements Developer {
      };
 
      String funFact = "Still learning... and breaking things.";
-     private String quote = "*Errare humanum est, perseverare autem diabolicum...*";
      private int publicRepos = 4; // ...for now ;)
 
      @Override
