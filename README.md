@@ -83,7 +83,7 @@ interface Developer {
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
 
-#### 🧩 <em><b>.Web</b></em>
+#### 🧩 <em><b>.web</b></em>
 <div style="width: 100%; height: 1px; background-color: rgba(200,200,200); margin: 1em 0;"></div>
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
