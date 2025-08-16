@@ -25,7 +25,7 @@ public class HellSide implements Developer {
      };
 
      String funFact = "Still learning... and breaking things.";
-     private int publicRepos = 4; // ...for now ;)
+     private int publicRepos = 5; // ...for now ;)
 
      @Override
      public void whoAmI() {
