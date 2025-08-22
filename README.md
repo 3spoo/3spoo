@@ -1,5 +1,5 @@
 <!--HEAD-->
-<img alt="TheHellSide" src="SAVE_THEHELLSIDE_BLACK.png" max-width=100%>
+<img alt="TheHellSide" src="SAVE_THEHELLSIDE_DEFAULT.png" max-width=100%>
 <!--HEAD-->
 
 
@@ -124,7 +124,7 @@ interface Developer {
 
 
 
-<!--STATS-->
+<!--STATS: shadow_red, nord-->
 ## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
 <div align="center" style="width: 100vw;">
    <img 
