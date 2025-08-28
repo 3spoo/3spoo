@@ -20,7 +20,7 @@ public class HellSide implements Developer {
      // Areas of interest
      String[][] focus = {
           { "Java", "C/C++", "Python", "Web" }, // Back-end
-          { "Bash", "Linux", "cyberSecurity" }
+          { "Bash", "Linux", "Cyber-Security" }
           // TODO: Work in progress...
      };
 
