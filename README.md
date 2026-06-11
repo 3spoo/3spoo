@@ -125,10 +125,16 @@ interface Developer {
 
 
 <!--STATS: shadow_red, nord-->
-## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
-<div align="center" style="width: 100vw;">
-   ![GitHub Stats](https://streak-stats.demolab.com?user=3spoo&theme=nord&hide_border=true)
+## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35" alt="gif"> <b>Github Stats</b>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=3spoo&theme=nord&hide_border=true"
+    alt="GitHub Stats"
+    style="max-width: 100%; height: auto;"
+  />
 </div>
+
 <br>
 
 <!--STATS-->
