@@ -1,5 +1,5 @@
 <!--HEAD-->
-<img alt="TheHellSide" src="SAVE_THEHELLSIDE_DEFAULT.png" max-width=100%>
+<img alt="3SPO" src="SAVE_3SPO.png" max-width=100%>
 <!--HEAD-->
 
 
@@ -13,14 +13,14 @@
 <br>
 
 ```java 
-public class HellSide implements Developer {
+public class THREESPO implements Developer {
      String[] pronouns = { "he", "him" };
      CoffeeLevel dailyCaffeineLevel = CoffeeLevel.HIGH;
 
      // Areas of interest
      String[][] focus = {
           { "Java", "C/C++", "Python", "Web" }, // Back-end
-          { "Bash", "Linux", "Cyber-Security" }
+          { "Bash", "Linux", "Web Security" }
           // Work in progress...
      };
 
@@ -128,7 +128,7 @@ interface Developer {
 ## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
 <div align="center" style="width: 100vw;">
    <img 
-     src="https://nirzak-streak-stats.vercel.app/?user=TheHellSide&theme=shadow_red&hide_border=true"
+     src="https://nirzak-streak-stats.vercel.app/?user=3spoo&theme=shadow_red&hide_border=true"
      alt="GitHub Streak"
      width="900vw"
    />
