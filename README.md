@@ -125,15 +125,7 @@ interface Developer {
 
 
 <!--STATS: shadow_red, nord-->
-## <img src="https://i.giphy.com/iY8CRBdQXODJSCERIr.webp" width="35"><b> Github Stats </b>
-<div align="center" style="width: 100vw;">
-   <img 
-     src="https://nirzak-streak-stats.vercel.app/?user=3spoo&theme=shadow_red&hide_border=true"
-     alt="GitHub Streak"
-     width="900vw"
-   />
-</div>
-<br>
+![GitHub Stats](https://streak-stats.demolab.com?user=3spoo&theme=nord&hide_border=true)
 <!--STATS-->
 <!--THE END-->
 
