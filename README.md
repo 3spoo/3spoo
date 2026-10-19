@@ -59,7 +59,7 @@ public class THREESPO implements CommandLineRunner {
     }};
 
     private final Set<String> interests = Set.of(
-        "CTF challenges", "Security tooling", "InfoSec", "Linux"
+        "CTF challenges", "Security tooling", "Linux"
     );
 
     private static class StackBuilder {
